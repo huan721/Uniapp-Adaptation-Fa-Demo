@@ -1,0 +1,31 @@
+{
+  "name": "@dcloudio/uni-migration",
+  "version": "2.8.1",
+  "description": "uni-app migration",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcloudio/uni-app.git",
+    "directory": "packages/uni-migration"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "uni-migration": "./bin/uni-migration.js"
+  },
+  "author": "fxy060608",
+  "license": "Apache-2.0",
+  "gitHead": "aa36b350796df41725569155f4efb05631573343",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "fs-extra": "^8.1.0",
+    "mustache": "^3.1.0",
+    "recast": "*",
+    "stricter-htmlparser2": "^3.9.6"
+  }
+}

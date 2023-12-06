@@ -1,0 +1,20 @@
+{
+  "name": "@dcloudio/webpack-uni-mp-loader",
+  "version": "2.8.1",
+  "description": "webpack-uni-mp-loader",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcloudio/uni-app.git",
+    "directory": "packages/webpack-uni-mp-loader"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fxy060608",
+  "license": "Apache-2.0",
+  "gitHead": "aa36b350796df41725569155f4efb05631573343"
+}

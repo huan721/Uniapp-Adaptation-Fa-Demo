@@ -1,0 +1,27 @@
+{
+  "name": "@dcloudio/uni-template-compiler",
+  "version": "2.8.1",
+  "description": "uni-template-compiler",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcloudio/uni-app.git",
+    "directory": "packages/uni-template-compiler"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fxy060608",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@babel/parser": "^7.3.3",
+    "@babel/template": "^7.3.3",
+    "@babel/traverse": "^7.3.3",
+    "@babel/types": "^7.3.3",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "gitHead": "aa36b350796df41725569155f4efb05631573343"
+}

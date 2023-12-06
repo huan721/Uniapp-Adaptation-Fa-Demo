@@ -1,0 +1,21 @@
+{
+  "name": "@dcloudio/uni-mp-weixin",
+  "version": "2.8.1",
+  "description": "uni-app mp-weixin",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcloudio/uni-app.git",
+    "directory": "packages/uni-mp-weixin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fxy060608",
+  "license": "Apache-2.0",
+  "uni-app": {
+    "name": "mp-weixin",
+    "title": "微信小程序"
+  },
+  "gitHead": "aa36b350796df41725569155f4efb05631573343"
+}

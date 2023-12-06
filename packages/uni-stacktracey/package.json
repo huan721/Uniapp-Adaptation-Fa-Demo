@@ -1,0 +1,25 @@
+{
+  "name": "@dcloudio/uni-stacktracey",
+  "version": "2.8.1",
+  "description": "@dcloudio/uni-stacktracey",
+  "main": "dist/uni-stacktracey.cjs.js",
+  "module": "dist/uni-stacktracey.es.js",
+  "files": [
+    "dist",
+    "lib"
+  ],
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcloudio/uni-app.git",
+    "directory": "packages/uni-stacktracey"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dcloudio/uni-app/issues"
+  },
+  "gitHead": "aa36b350796df41725569155f4efb05631573343",
+  "devDependencies": {
+    "@dcloudio/types": "^2.6.12"
+  }
+}
